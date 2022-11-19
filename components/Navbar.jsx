@@ -26,7 +26,7 @@ const Navbar = () => {
         <ThemeToggler />
       </div>
       <div>
-        <div className="flex justify-between items-center py-2  lg:hidden">
+        <div className="flex justify-between items-center py-2 md:hidden lg:hidden">
           <ThemeToggler />
           <p onClick={showMenu}>{isMenuOpen ? <AiOutlineClose size={25} /> : <MdMenu size={25} />}</p>
         </div>
