@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div>
       <Header />
-      <main className=""></main>
+      <section>card</section>
     </div>
   );
 }

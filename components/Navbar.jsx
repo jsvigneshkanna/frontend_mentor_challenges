@@ -11,7 +11,7 @@ const Navbar = () => {
   };
   const displayMenu = () => {
     if (isMenuOpen) {
-      return "flex flex-col justify-center items-center gap-4 pb-8 border-t-2 mt-2 pt-3 border-slate-500 font-semibold";
+      return "flex flex-col justify-center items-center gap-8 py-8 border-t-2 mt-2 border-slate-500 font-semibold";
     } else {
       return "hidden";
     }
@@ -26,7 +26,7 @@ const Navbar = () => {
         <ThemeToggler />
       </div>
       <div>
-        <div className="flex justify-between items-center py-2 md:hidden lg:hidden">
+        <div className="flex justify-between items-center py-3 md:hidden lg:hidden">
           <ThemeToggler />
           <p onClick={showMenu}>{isMenuOpen ? <AiOutlineClose size={25} /> : <MdMenu size={25} />}</p>
         </div>
