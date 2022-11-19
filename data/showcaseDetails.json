@@ -2,19 +2,7 @@
   {
     "name": "Product Preview Card Component",
     "image": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto:good,w_900/Challenges/d0bm3lh8bp36gyi3jiop.jpg",
-    "href": "",
-    "brief": "This HTML & CSS-only challenge will be perfect for anyone starting to build responsive projects."
-  },
-  {
-    "name": "Product Preview Card Component",
-    "image": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto:good,w_900/Challenges/d0bm3lh8bp36gyi3jiop.jpg",
-    "href": "",
-    "brief": "This HTML & CSS-only challenge will be perfect for anyone starting to build responsive projects."
-  },
-  {
-    "name": "Product Preview Card Component",
-    "image": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto:good,w_900/Challenges/d0bm3lh8bp36gyi3jiop.jpg",
-    "href": "",
+    "href": "/solutions/product_preview_card",
     "brief": "This HTML & CSS-only challenge will be perfect for anyone starting to build responsive projects."
   }
 ]
