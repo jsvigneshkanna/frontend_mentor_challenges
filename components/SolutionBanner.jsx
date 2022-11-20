@@ -23,7 +23,8 @@ const SolutionBanner = () => {
             href="https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa"
             target="_blank"
             rel="noopener noreferrer"
-            className="bg-slate-300 px-2 rounded-xl hover:bg-slate-300 flex justify-center items-center text-black"
+            className="bg-slate-300 px-2 rounded-xl hover:bg-slate-300 flex justify-center items-center 
+            text-black text-base md:text-lg"
           >
             Click here <ChevronLeft />
           </a>
