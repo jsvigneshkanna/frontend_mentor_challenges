@@ -3,6 +3,7 @@ import ThemeToggler from "./ThemeToggler";
 import Link from "next/link";
 import { MdMenu } from "react-icons/md";
 import { AiOutlineClose } from "react-icons/ai";
+import VkLogo from "./VkLogo";
 
 const Navbar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -28,6 +29,7 @@ const Navbar = () => {
       <div>
         <div className="flex justify-between items-center py-3 md:hidden lg:hidden">
           <ThemeToggler />
+          <VkLogo />
           <p onClick={showMenu}>{isMenuOpen ? <AiOutlineClose size={25} /> : <MdMenu size={25} />}</p>
         </div>
         <div className={displayMenu()}>
