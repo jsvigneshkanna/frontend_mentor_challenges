@@ -6,7 +6,10 @@ const product_preview_card = () => {
   return (
     <div>
       <Header title="product preview card" />
-      <SolutionBanner />
+      <SolutionBanner
+        challengeName="product preview card component"
+        challengeUrl="https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa"
+      />
     </div>
   );
 };
