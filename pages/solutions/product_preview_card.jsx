@@ -4,7 +4,7 @@ import SolutionBanner from "../../components/SolutionBanner";
 
 const product_preview_card = () => {
   return (
-    <div>
+    <div className="pb-16">
       <Header title="product preview card" />
       <SolutionBanner
         challengeName="product preview card component"
