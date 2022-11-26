@@ -7,7 +7,7 @@ const SolutionBanner = ({ challengeName, challengeUrl }) => {
        flex-col justify-center items-center mx-auto my-6 rounded-lg shadow-md shadow-purple-300 dark:shadow-blue-700 py-8 
        gap-4 font-semibold px-4 text-center"
     >
-      <h1 className="font-black text-base md:text-lg text-blue-800 dark:text-orange-500">
+      <h1 className="font-black text-base md:text-lg text-blue-800 dark:text-yellow-300">
         Vignesh Kanna&apos;s Frontend mentor challenges Solutions{" "}
       </h1>
       <h2

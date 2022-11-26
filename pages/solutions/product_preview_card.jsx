@@ -10,6 +10,9 @@ const product_preview_card = () => {
         challengeName="product preview card component"
         challengeUrl="https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa"
       />
+      <div className=" mt-14 flex flex-col justify-center items-center w-full">
+        <ProductPreviewCard />
+      </div>
     </div>
   );
 };
