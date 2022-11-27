@@ -1,8 +1,14 @@
 [
   {
-    "name": "Product Preview Card Component",
+    "name": "Product Preview Card Component 📺",
     "image": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto:good,w_900/Challenges/d0bm3lh8bp36gyi3jiop.jpg",
     "href": "/solutions/product_preview_card",
     "brief": "This HTML & CSS-only challenge will be perfect for anyone starting to build responsive projects."
+  },
+  {
+    "name": "Interactive Rating component ⭐",
+    "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1647605679/Challenges/dm3s8oqtz0mwcaygqjhy.jpg",
+    "href": "/solutions/interactive_rating_component",
+    "brief": "Interactive star rating component built with tailwindcss being responsive."
   }
 ]
