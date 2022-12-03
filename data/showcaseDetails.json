@@ -10,5 +10,11 @@
     "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1647605679/Challenges/dm3s8oqtz0mwcaygqjhy.jpg",
     "href": "/solutions/interactive_rating_component",
     "brief": "Interactive star rating component built with tailwindcss being responsive."
+  },
+  {
+    "name": "3 column preview card component",
+    "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1617293265/Challenges/ap7h50kkrdq7zclbokox.jpg",
+    "href": "/solutions/three_column_preview_card",
+    "brief": "Column level card to showcase different products."
   }
 ]
