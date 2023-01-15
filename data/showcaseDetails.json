@@ -22,5 +22,11 @@
     "image": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/cib3votwl9kmqxduuahz.jpg",
     "href": "/solutions/qrcode_component_page",
     "brief": "Component where QR code is dispalyed with info about it."
+  },
+  {
+    "name": "NFT Preview Card",
+    "image": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/tsriztcjqnobsyt6z9do.jpg",
+    "href": "/solutions/nft_preview_card",
+    "brief": "Card to display NFT card colections, its value and owner details"
   }
 ]
