@@ -16,5 +16,11 @@
     "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1617293265/Challenges/ap7h50kkrdq7zclbokox.jpg",
     "href": "/solutions/three_column_preview_card",
     "brief": "Column level card to showcase different products."
+  },
+  {
+    "name": "QR component",
+    "image": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/cib3votwl9kmqxduuahz.jpg",
+    "href": "/solutions/qrcode_component_page",
+    "brief": "Component where QR code is dispalyed with info about it."
   }
 ]
