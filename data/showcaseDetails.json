@@ -28,5 +28,11 @@
     "image": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/tsriztcjqnobsyt6z9do.jpg",
     "href": "/solutions/nft_preview_card",
     "brief": "Card to display NFT card colections, its value and owner details"
+  },
+  {
+    "name": "Profile card component",
+    "image": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/tsdyz2ccordcztyrn8m0.jpg",
+    "href": "/solutions/profile_card",
+    "brief": "Card to display user's image and their information"
   }
 ]
