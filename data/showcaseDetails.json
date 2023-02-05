@@ -34,5 +34,11 @@
     "image": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/tsdyz2ccordcztyrn8m0.jpg",
     "href": "/solutions/profile_card",
     "brief": "Card to display user's image and their information"
+  },
+  {
+    "name": "Order Summary Panel",
+    "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1628162588/Challenges/ztpxtbfhkp1af0guaylg.jpg",
+    "href": "/solutions/order_summary_panel",
+    "brief": "Panel to display the summary of order booked before payments"
   }
 ]
