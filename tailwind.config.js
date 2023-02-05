@@ -7,7 +7,11 @@ module.exports = {
     "./challenge_solutions/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        redHatDisplay: ["Red Hat Display"],
+      },
+    },
   },
   plugins: [],
 };
