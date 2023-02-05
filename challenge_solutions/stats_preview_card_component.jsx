@@ -1,8 +1,10 @@
 import React from "react";
+import Image from "next/image";
+import HeaderBanner from "../images/stats preview card/header-banner.jpg";
 
 const StatsPreviewCardComponent = () => {
   return (
-    <div className="bg-[#090B1A] text-white flex flex-row ">
+    <div className=" text-white flex flex-row rounded-xl overflow-hidden">
       {/* Stats Contianer */}
       <div>
         <h1>Get insighes the help your business grow.</h1>
@@ -11,6 +13,8 @@ const StatsPreviewCardComponent = () => {
           overall efficiency.
         </p>
       </div>
+
+      <Image src={HeaderBanner} alt="header banner"></Image>
     </div>
   );
 };

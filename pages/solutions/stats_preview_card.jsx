@@ -4,7 +4,7 @@ import SolutionBanner from "../../components/SolutionBanner";
 
 const StatsPreviewCard = () => {
   return (
-    <div className="pb-12">
+    <div className="pt-8 bg-[#090B1A] min-h-screen">
       <Header title="Stats preview card" />
       <SolutionBanner
         challengeName="Stats preview card"

@@ -4,7 +4,7 @@ const SolutionBanner = ({ challengeName, challengeUrl }) => {
   return (
     <div
       className="bg-violet-50 dark:bg-sky-900 text-slate-900 dark:text-slate-100 w-4/5 md:w-3/5  flex
-       flex-col justify-center items-center mx-auto my-6 rounded-lg shadow-md shadow-purple-300 dark:shadow-blue-700 py-8 
+       flex-col justify-center items-center mx-auto py-6 rounded-lg shadow-md shadow-purple-300 dark:shadow-blue-700 
        gap-4 font-semibold px-4 text-center"
     >
       <h1 className="font-black text-base md:text-lg text-blue-800 dark:text-yellow-300">
