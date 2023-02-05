@@ -40,5 +40,11 @@
     "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1628162588/Challenges/ztpxtbfhkp1af0guaylg.jpg",
     "href": "/solutions/order_summary_panel",
     "brief": "Panel to display the summary of order booked before payments"
+  },
+  {
+    "name": "Stats preview card",
+    "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1618491773/Challenges/pnczwsvslfwimxcqjrwm.jpg",
+    "href": "/solutions/stats_preview_card",
+    "brief": "Panel to display the stats of business with header banner image"
   }
 ]

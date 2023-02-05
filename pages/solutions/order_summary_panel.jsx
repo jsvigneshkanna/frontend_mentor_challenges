@@ -2,7 +2,7 @@ import Header from "../../components/Header";
 import SolutionBanner from "../../components/SolutionBanner";
 import OrderSummaryComponent from "../../challenge_solutions/order_summary_component";
 
-const interactive_rating = () => {
+const OrderSummaryPanel = () => {
   return (
     <div className="pb-12">
       <Header title="Order summary component" />
@@ -17,4 +17,4 @@ const interactive_rating = () => {
   );
 };
 
-export default interactive_rating;
+export default OrderSummaryPanel;
