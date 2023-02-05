@@ -4,7 +4,7 @@ import Image from "next/image";
 
 const OrderSummaryComponent = () => {
   return (
-    <div className="min-h-[420px] bg-white w-[400px] rounded-2xl overflow-hidden font-redHatDisplay dark:bg-blue-900">
+    <div className="min-h-[420px] bg-white w-[80%] md:w-[400px] rounded-2xl overflow-hidden font-redHatDisplay dark:bg-blue-900">
       {/* Banner Image */}
       <Image
         src={BannerImage}
@@ -12,7 +12,7 @@ const OrderSummaryComponent = () => {
         className="w-full h-full object-cover shadow-sm shadow-blue-600/40"
       ></Image>
 
-      <div className="px-12">
+      <div className=" px-4 md:px-12">
         {/* Order summary details */}
         <div className="flex flex-col justify-center items-center py-8">
           <h2 className="mb-3 font-black text-2xl">Order Summary</h2>
